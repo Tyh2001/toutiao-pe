@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217eac"],{c988:function(n,a,e){"use strict";e.r(a);var t=function(){var n=this,a=n.$createElement,e=n._self._c||a;return e("div",[e("van-nav-bar",{attrs:{title:"问答"}}),e("div",[n._v("问答 - 开发中")])],1)},c=[],r={name:"qaIndex"},i=r,s=e("2877"),u=Object(s["a"])(i,t,c,!1,null,"3ccbbaac",null);a["default"]=u.exports}}]);
-//# sourceMappingURL=chunk-2d217eac.bbf073c7.js.map
+//# sourceMappingURL=chunk-2d217eac.462a9f6b.js.map
