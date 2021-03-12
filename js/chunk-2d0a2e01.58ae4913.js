@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a2e01"],{"007b":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("van-nav-bar",{attrs:{title:"视频"}}),t("div",[e._v("视频 - 开发中")])],1)},c=[],i={name:"videoIndex"},r=i,s=t("2877"),u=Object(s["a"])(r,a,c,!1,null,"40f5c248",null);n["default"]=u.exports}}]);
-//# sourceMappingURL=chunk-2d0a2e01.6f4f9312.js.map
+//# sourceMappingURL=chunk-2d0a2e01.58ae4913.js.map
